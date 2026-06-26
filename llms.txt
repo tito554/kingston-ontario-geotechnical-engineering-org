@@ -1,0 +1,47 @@
+# Geotechnical Engineering — Kingston Ontario
+
+> Geotechnical engineering services in Kingston Ontario, Canada.
+
+## Services
+- [Anchors](https://kingston-ontario.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://kingston-ontario.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://kingston-ontario.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://kingston-ontario.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://kingston-ontario.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://kingston-ontario.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://kingston-ontario.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://kingston-ontario.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://kingston-ontario.geotechnical-engineering.org/footings/)
+- [Foundations](https://kingston-ontario.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://kingston-ontario.geotechnical-engineering.org/geophysics/)
+- [Grain Size](https://kingston-ontario.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://kingston-ontario.geotechnical-engineering.org/ground-improvement/)
+- [In Situ Permeability](https://kingston-ontario.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://kingston-ontario.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://kingston-ontario.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://kingston-ontario.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://kingston-ontario.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://kingston-ontario.geotechnical-engineering.org/masw/)
+- [Mat Foundations](https://kingston-ontario.geotechnical-engineering.org/mat-foundations/)
+- [Piles](https://kingston-ontario.geotechnical-engineering.org/piles/)
+- [Plate Load Test](https://kingston-ontario.geotechnical-engineering.org/plate-load-test/)
+- [Resistivity](https://kingston-ontario.geotechnical-engineering.org/resistivity/)
+- [Road Geotechnics](https://kingston-ontario.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://kingston-ontario.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://kingston-ontario.geotechnical-engineering.org/seismic/)
+- [Seismic Refraction](https://kingston-ontario.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://kingston-ontario.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://kingston-ontario.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://kingston-ontario.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://kingston-ontario.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://kingston-ontario.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://kingston-ontario.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://kingston-ontario.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://kingston-ontario.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://kingston-ontario.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Kingston Ontario, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
